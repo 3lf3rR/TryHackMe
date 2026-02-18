@@ -8,12 +8,6 @@
 
 ![image.png](image%201.png)
 
-## Dirsearch
-
-```python
-
-```
-
 Register a user on the website just to test the waters
 
 ![image.png](image%202.png)
